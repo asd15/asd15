@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @asd15
-- 👀 I’m interested in building machine learning and UI related projects
-- 🌱 I’m currently learning Advanced JS and pyton
+- 🤖 I'm working on ROBOT framework with Selenium and Python
+- 👀 I’m interested in building automation and performance frameworks
+- 🌱 I’m currently learning TestNG with JAVA
 - 💞️ I’m looking to collaborate on projects that will utilize my above mentioned skills
 - 📫 How to reach me? I'm just a mail away - akashsdesai15@gmail.com
 
